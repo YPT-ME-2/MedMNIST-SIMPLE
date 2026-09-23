@@ -1,0 +1,8 @@
+train:
+  epochs: 3
+  batch_size: 128
+  lr: 0.001
+
+model:
+  in_channels: 1
+  num_classes: 2
